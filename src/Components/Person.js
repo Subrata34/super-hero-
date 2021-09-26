@@ -1,21 +1,25 @@
 import React, { useEffect, useState } from 'react';
+import Amount from './Amount/Amount';
 import Cart from './Cart';
 import './Person.css'
 const Person = () => {
     const[persons,setPerson]=useState([]);
-    const[count,setCount]=useState([]);
+    const[count ,setCount ]=useState([]);
     useEffect (()=>{
         fetch(`./Apijson.json`)
         .then(res=>res.json())
         .then(data=>setPerson(data));
       },[])
-      const handleSalary=(person)=>
-      {
-         console.log(person.name);
+      const handleSalary=(person)=>{ 
+      const newCount =[...count,person];
+      setCount(newCount)
+        
+        
       }
+      
     return (
     <div> 
-        <h1 className='top-containted'>Bangladesh writer community</h1>
+        <h1 className='text-center text-primary'>Bangladesh <span className='text-success'> writer</span> community</h1>
         <div className='cart-person'>
             <div className ='person-container '>
                  <h1>Writer information :</h1> 
@@ -31,10 +35,7 @@ const Person = () => {
             </div>
           
             <div className='persion-salary'>
-                   <h1>Salary Detail</h1>
-                   <h2>person count :{count.lenght} </h2>
-                   <h2>Total  salary:</h2>
-
+                  <Amount count ={count}></Amount>
             </div>
         </div>
      </div>
