@@ -15,6 +15,8 @@ const Cart = (props) => {
             <h4>salary:{salary}</h4>
             <button
              onClick={()=>props.handleSalary(props.person)} >cost</button>
+              <h2 className='book'><p><i class="fab fa-facebook-f"></i><i  class="fas fa-book"></i></p></h2>
+              
             </div>
            
             
