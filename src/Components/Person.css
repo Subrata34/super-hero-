@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+}
+.cart-person{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.person-container{
+    border-right: 4px solid lightslategray;
+}
+.top-containted{
+    text-align: center;
+}
