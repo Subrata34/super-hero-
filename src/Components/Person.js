@@ -19,7 +19,7 @@ const Person = () => {
       
     return (
     <div> 
-        <h1 className='text-center text-primary'>Bangladesh <span className='text-success'> writer</span> community</h1>
+        <h1 className='text-center main-color'>Bangladesh <span className='text-warning'> writer</span> community</h1>
         <div className='cart-person'>
             <div className ='person-container '>
                  <h1>Writer information :</h1> 
