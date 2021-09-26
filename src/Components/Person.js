@@ -17,9 +17,9 @@ const Person = () => {
     <div> 
         <h1 className='top-containted'>Bangladesh writer community</h1>
         <div className='cart-person'>
-            <div className ='person-container'>
+            <div className ='person-container '>
                  <h1>Writer information :</h1> 
-                 <div>
+                <div className='container-div'>
                {
                    persons.map(person=><Cart 
                     key={person.Serial_number}
@@ -27,7 +27,7 @@ const Person = () => {
                     handleSalary={handleSalary}
                     ></Cart>)
                }
-           </div>
+              </div>
             </div>
           
             <div className='persion-salary'>
