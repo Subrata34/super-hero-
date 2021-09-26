@@ -1,0 +1,122 @@
+[
+    {
+      "Serial_number":1,
+      "name":" William Shakespeare ",
+      "passion":"poem writer ",
+      "salary":5000,
+      "Works":"Alls Well That Ends Well – 1598",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+    },
+    {
+      "Serial_number":2,
+      "name":" Edgar Allan Poe ",
+      "passion":"writer ",
+      "salary":7000,
+      "Works":"'Al Aaraaf, Tamerlane and Minor Poems ",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/330px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg"
+    },
+    {
+      "Serial_number":3,
+      "name":" Robert Ervin Howard ",
+      "passion":" writer ",
+      "salary":5000,
+      "Works":"The Phoenix on the Sword",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Robert_E_Howard_suit.jpg/330px-Robert_E_Howard_suit.jpg"
+    },
+    {
+      "Serial_number":4,
+      "name":"Rabindranath Tagore",
+      "passion":" writer ",
+      "salary":4000,
+      "Works":"Gitanjali",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rabindranath_Tagore_in_1909.jpg/330px-Rabindranath_Tagore_in_1909.jpg"
+    },
+    {
+      "Serial_number":5,
+      "name":"Rudyard Kipling",
+      "passion":"poem writer ",
+      "salary":5500,
+      "Works":" The Light That Failed",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kipling_nd.jpg/330px-Kipling_nd.jpg"
+    },
+    {
+      "Serial_number":6,
+      "name":"Oscar Wilde",
+      "passion":"writer ",
+      "salary":5400,
+      "Works":"The Happy Prince",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Oscar_Wilde_%281854-1900%29_1889%2C_May_23._Picture_by_W._and_D._Downey.jpg/330px-Oscar_Wilde_%281854-1900%29_1889%2C_May_23._Picture_by_W._and_D._Downey.jpg"
+    },
+    {
+      "Serial_number":7,
+      "name":" Emily Elizabeth Dickinson ",
+      "passion":"poem writer ",
+      "salary":2000,
+      "Works":"Life is death we're lengthy at'",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Emily_Dickinson_daguerreotype_%28Restored%29.jpg"
+    },
+    {
+      "Serial_number":8,
+      "name":" Howard Phillips Lovecraft ",
+      "passion":"poem writer ",
+      "salary":6000,
+      "Works":"The Case of Charles Dexter Ward",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/1/10/H._P._Lovecraft%2C_June_1934.jpg"
+    },
+    {
+      "Serial_number":9,
+      "name":"Arthur Conan Doyle",
+      "passion":"poem writer ",
+      "salary":4000,
+      "Works":"A Study in Scarlet",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Conan_doyle.jpg/330px-Conan_doyle.jpg"
+    },
+    {
+      "Serial_number":10,
+      "name":" Lev Nikolayevich Tolstoy ",
+      "passion":" writer ",
+      "salary":2500,
+      "Works":"The Decembrists",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/330px-L.N.Tolstoy_Prokudin-Gorsky.jpg"
+    },
+    {
+      "Serial_number":11,
+      "name":" John Keats ",
+      "passion":"writer ",
+      "salary":3500,
+      "Works":"On Death",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/John_Keats_by_William_Hilton.jpg/330px-John_Keats_by_William_Hilton.jpg"
+    },
+    {
+      "Serial_number":12,
+      "name":"Charles John Huffam Dickens",
+      "passion":" writer ",
+      "salary":6500,
+      "Works":"Nicholas Nickleby",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/330px-Dickens_Gurney_head.jpg"
+    },
+    {
+      "Serial_number":13,
+      "name":"William Blake",
+      "passion":"writer ",
+      "salary":3500,
+      "Works":"Poetical Sketches",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/William_Blake_by_Thomas_Phillips.jpg/330px-William_Blake_by_Thomas_Phillips.jpg"
+    },
+    {
+      "Serial_number":14,
+      "name":"Poetical Sketches ",
+      "passion":"writer ",
+      "salary":2000,
+      "Works":"Poems by Two Brothers ",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alfred_Lord_Tennyson_1869.jpg/330px-Alfred_Lord_Tennyson_1869.jpg"
+    },
+    {
+      "Serial_number":15,
+      "name":" Theodor Herzl ",
+      "passion":" writer ",
+      "salary":2500,
+      "Works":"The Jewish State ",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodor_Herzl.jpg/330px-Theodor_Herzl.jpg"
+    }
+  ]
